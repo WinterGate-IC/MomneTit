@@ -3,13 +3,11 @@
 "One look is all you get."
 
 ---
-
-## BULLETIN
-
+```
 Type: Connection Killer
 Status: First of its kind. Never existed before.
 Tier: Free (low-grade) / Full (portable)
-
+```
 ---
 
 ## WHAT IS IT?
